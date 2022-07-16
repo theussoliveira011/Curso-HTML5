@@ -22,6 +22,13 @@
     <li><a href="https://pt.stackoverflow.com/questions/119025/utilidade-do-novo-atributo-global-dropzone-no-html5">dropzone</a></li>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/hidden">hidden</a></li>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/id">id</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/lang">lang</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/spellcheck">spellcheck</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style">style</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex">tabindex</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/title">title</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/translate"></a>translate</li>
+
 </ul>
   
   
